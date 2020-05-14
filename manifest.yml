@@ -1,5 +1,0 @@
-applications:
-- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
-  host: techbarbr
-  name: techbarbr
-  memory: 64M
